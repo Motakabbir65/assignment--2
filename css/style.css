@@ -420,3 +420,100 @@ table,tr,td{
 
 /* Calculator Section End */
 
+/* meet section start */
+
+.meet-section{
+    background-color: black;
+    margin-top: -38px;
+    padding-bottom: 50px;
+    
+}
+.meet-style{
+    max-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+.meet-title{
+    color: white;
+    font-size: 45px;
+    font-weight: 900;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+.meet-discription{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 50px;
+    
+}
+.img-clg{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    background-color: rgb(34, 34, 34);
+    max-width: 870px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.head-1{
+    position: absolute;
+    color: white;
+    bottom: 7.3cm;
+    left: 1cm;
+
+}
+.head-2{
+    position: absolute;
+    color: white;
+    bottom: 7.3cm;
+    left: 8.8cm;
+}
+.head-3{
+    position: absolute;
+    color: white;
+    bottom: 7.3cm;
+    left: 16.5cm;
+}
+.head-4{
+    position: absolute;
+    color: white;
+    bottom: 0.3cm;
+    left: 1cm;
+}
+.head-5{
+    position: absolute;
+    color: white;
+    bottom: 0.3cm;
+    left: 8.8cm;
+}
+.head-6{
+    position: absolute;
+    color: white;
+    bottom: 0.3cm;
+    left: 16.5cm;
+}
+.tra-name{
+    font-size: 20px;
+    font-weight: 800;
+}
+.tra-title{
+    margin-top: -15px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+.tra-img{
+    width: 270px;
+    height: 250px;
+    border-radius: 15px; 
+}
+
+/* meet section Ends */
+
+
+
